@@ -1,6 +1,6 @@
 # Freshman Year Project - House Price Prediction
 
-  This software project was written in C by @abalioglu, @skoleli and @bestesengul for our year-end project.
+  This project was written in C by @abalioglu, @skoleli and @bestesengul.
 
 
 ## Folders
