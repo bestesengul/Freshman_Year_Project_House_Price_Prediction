@@ -1,4 +1,4 @@
-# Freshman_Year_Project_House_Price_Prediction
+# Freshman Year Project - House Price Prediction
 
   This software project was written in C by @abalioglu, @skoleli and @bestesengul for our year-end project.
 
