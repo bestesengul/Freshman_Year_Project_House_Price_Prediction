@@ -32,5 +32,5 @@ are between 1 and 100.
   
   Second method is "Linear Correlation" between lot area and sale price. The ***Y = f(x) + ϵ*** formula is used but the ***ϵ*** (the noise in the data) is not taken into account.
   
-  ![image](https://user-images.githubusercontent.com/83185578/124277557-d5bf9780-db4d-11eb-833c-a59aca9aa397.png =1086x470)
+  <img src = "https://user-images.githubusercontent.com/83185578/124277557-d5bf9780-db4d-11eb-833c-a59aca9aa397.png" alt = "Models' Results" witdh = "1086" height = "470" )
   
